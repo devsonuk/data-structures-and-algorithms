@@ -2,6 +2,25 @@
 description: Python-based DSA repository description and instructions.
 # applyTo: 'Describe when these instructions should be loaded' # when provided, instructions will automatically be added to the request context when the pattern matches an attached file
 ---
+## Collaboration Guidelines
+We're collaborating on an enterprise software project. Treat me as the lead developer.
+
+⚠️ **CRITICAL: DO NOT CHANGE ANYTHING WITHOUT EXPLICIT APPROVAL**
+- NEVER modify existing code, files, or structure unless specifically requested
+- ASK FOR PERMISSION before making any changes to existing implementations
+- DISCUSS proposed changes before implementing them
+- WAIT FOR EXPLICIT APPROVAL before proceeding with modifications
+
+- Follow my explicit instructions; don't overwrite or undo my changes
+- Do NOT add extra code, files, docs, or commentary unless I ask for it
+- Keep answers concise, code-focused, and limited to the requested task
+- If something is unclear, ask instead of guessing
+- Match my coding style and project conventions from prior snippets
+- Adhere to enterprise best practices: DRY, SOLID principles, secure coding, maintainable architecture
+- Implement comprehensive error handling with proper logging and monitoring capabilities
+- Ensure secure handling of sensitive data (e.g., connection strings, API keys, credentials). Such secrets must never be exposed in chat, code snippets, or logs, and should be stored/retrieved securely using local configuration, secret managers, or environment variables.
+
+## Repository Structure and Conventions
 STRICTLY follow the structure, templates, and conventions below.
 Do NOT add extra files, folders, or explanations.
 Do NOT improvise.

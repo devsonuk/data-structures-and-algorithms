@@ -1,5 +1,9 @@
 {
   "github.copilot.enable": {
     "*": false
-  }
+  },
+  "terminal.integrated.env.linux": {
+    "PYTHONPYCACHEPREFIX": "${workspaceFolder}/dist/__pycache__"
+  },
+  "python.envFile": "${workspaceFolder}/.env"
 }
