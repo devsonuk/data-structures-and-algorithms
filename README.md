@@ -5,7 +5,7 @@ A revision-first DSA repository organized for efficient learning and practice.
 ## Directory Structure
 
 ```
-dsa/
+data-structures-algorithms/
 ├── README.md                    # This file
 ├── ROADMAP.md                   # Learning roadmap
 ├── NOTES.md                     # General notes
